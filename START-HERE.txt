@@ -1,0 +1,43 @@
+KN AESTHETICS STUDIO WEBSITE: START HERE
+================================
+
+SEE THE SITE
+Unzip this folder first, then double-click index.html.
+
+ADD YOUR DETAILS
+Open site-settings.js in Notepad (Windows) or TextEdit (Mac).
+Fill in your phone, WhatsApp number, email and address, then check:
+  - opening hours
+  - services and prices (the prices in there are samples)
+  - the About story and Kim's bio
+  - the Questions page policies
+Save the file and refresh the website.
+Yellow "Add your..." reminders disappear as you fill things in.
+
+ADD YOUR PHOTOS
+Put photos in these folders using these exact names:
+
+  Home page mirror     images/site/hero.jpg
+  About page           images/site/about.jpg
+  Kim's photo          images/team/kim.jpg
+  Gallery              images/gallery/photo-01.jpg up to photo-12.jpg
+
+Names must match exactly, including lowercase and .jpg
+Each gallery photo's caption and category is in site-settings.js.
+For more than 12, add a line there and use photo-13.jpg, and so on.
+Once one gallery photo is in, empty spaces hide automatically.
+Tip: keep photos under about 500 KB so the site loads quickly on mobile data.
+
+HOW BOOKINGS WORK
+The Book and Contact forms open WhatsApp or email with the message
+already written. The client presses send and it comes straight to you.
+Nothing is saved on the website, and there's no calendar: you confirm
+each booking yourself.
+
+PUT IT ONLINE (FREE OPTIONS)
+Easiest: go to app.netlify.com/drop, sign up, and drag this whole folder
+onto the page. You get a working web address straight away.
+Cloudflare Pages and GitHub Pages also work.
+To use your own name, such as knaesthetics.co.za, buy the domain from a
+registrar and connect it in your host's settings.
+To update the site later, edit your files and upload the folder again.
